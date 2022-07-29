@@ -2,7 +2,7 @@
 ## 👀 Overview
 
 Bateria istrumental onde você pode tocar ela com o algumas teclas do teclado ou, digitando uma composição.
-Você pode ver o site funcionando [AQUI](https://vbrianb.github.io/Bateria_JS/)
+Você pode ver o site funcionando [AQUI](https://vbrianb.github.io/Bateria_JS)
 
 
 
